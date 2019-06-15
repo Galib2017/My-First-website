@@ -1,0 +1,59 @@
+body{
+  background-color:#f4f4f4;
+  color-#555;
+  font-family: arial;
+  font-style: normal;
+  font-weight: 10;
+  line-hight:1.6em;
+  margin: 0;
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+#main-header{
+  background-color:#000;
+  color:#fff;
+}
+
+#main-navbar{
+  background-color:coral;
+  color:#fff;
+}
+
+#main-navbar ul{
+  padding:0;
+  list-style: none;
+}
+
+#main-navbar li{
+  display:inline;
+
+}
+
+#main-navbar a{
+  color:#fff;
+  text-decoration: none;
+  font-size:18px;
+  padding-right:20px;
+}
+
+#showcase{
+  float: left;
+  width: 60%;
+  background-image: url(../HTML/images/isak.jpg);
+  background-size: 160%;
+  min-height: 200px;
+}
+
+#showcase1{
+  color: #fff;
+  background-color: #000;
+  float: right;
+  width: 40%;
+  text-align: center;
+  min-height: 200px;
+}
