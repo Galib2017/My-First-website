@@ -1,11 +1,12 @@
 body{
   background-color:#f4f4f4;
   color-#555;
-  font-family: arial;
+  font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 10;
   line-hight:1.6em;
   margin: 0;
+  height: 8000px;
 }
 
 .container{
@@ -15,17 +16,31 @@ body{
 }
 
 #main-header{
+  height: 70px;
+  width: 100%;
   background-color:#000;
   color:#fff;
+  position: fixed;
+  top: 0px;
+}
+
+#main-header h1{
+  margin: 0px;
+  padding-top: 15px;
 }
 
 #main-navbar{
+  height: 40px;
+  width: 100%;
   background-color:coral;
   color:#fff;
+  position: fixed;
+  top: 70px;
 }
 
 #main-navbar ul{
-  padding:0;
+  margin: 0px;
+  padding: 9px 0px 0px 0px;
   list-style: none;
 }
 
@@ -45,8 +60,9 @@ body{
   float: left;
   width: 60%;
   background-image: url(../HTML/images/isak.jpg);
-  background-size: 160%;
-  min-height: 200px;
+  background-size: 100%;
+  padding: 110px 0px 0px 0px;
+  height: 400px;
 }
 
 #showcase1{
@@ -55,5 +71,22 @@ body{
   float: right;
   width: 40%;
   text-align: center;
-  min-height: 200px;
+  padding: 110px 0px 0px 0px;
+  height: 400px;
+}
+
+#showcase1 h1{
+  margin: 0px;
+  padding: 170px 160px 0px 0px;
+}
+
+#main-footer{
+  color: #090909;
+  width: 100%;
+  padding-bottom: 15px;
+  background-color: gray;
+}
+
+#main-footer p{
+  padding-top: 15px;
 }
