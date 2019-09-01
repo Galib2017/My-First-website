@@ -6,7 +6,7 @@ body{
   font-weight: 10;
   line-hight:1.6em;
   margin: 0;
-  height: 8000px;
+  height: 2000px;
 }
 
 .container{
@@ -60,9 +60,10 @@ body{
   float: left;
   width: 60%;
   background-image: url(../HTML/images/isak.jpg);
+  background-repeat: no-repeat;
   background-size: 100%;
   padding: 110px 0px 0px 0px;
-  height: 400px;
+  min-height: 400px;
 }
 
 #showcase1{
@@ -72,7 +73,7 @@ body{
   width: 40%;
   text-align: center;
   padding: 110px 0px 0px 0px;
-  height: 400px;
+  min-height: 400px;
 }
 
 #showcase1 h1{
