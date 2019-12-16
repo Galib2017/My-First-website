@@ -18,15 +18,14 @@ body{
 #main-header{
   height: 70px;
   width: 100%;
-  background-color:#000;
+  background-color:#fff;
   color:#fff;
   position: fixed;
   top: 0px;
 }
 
 #main-header h1{
-  margin: 0px;
-  padding-top: 15px;
+  margin-top: 0px;
 }
 
 #main-navbar{

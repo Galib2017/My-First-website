@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="200" height="100" viewBox="0 0 200 100">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 72px;
+      }
+
+      .cls-2 {
+        fill: #ae1730;
+        font-family: "Siyam Rupali";
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 24px;
+      }
+
+      .cls-4 {
+        fill: #030303;
+        font-family: "Myanmar Text";
+      }
+    </style>
+  </defs>
+  <g id="artboard-1">
+    <text x="-5" y="74" class="cls-1"><tspan class="cls-2">KT</tspan></text>
+    <text x="71" y="74" class="cls-3"><tspan class="cls-4">ENTERPRISE</tspan></text>
+  </g>
+</svg>
