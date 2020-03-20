@@ -4,7 +4,7 @@
   "description": "My portfolio help me out on this jurnie. <= start by fixing that spelling mistake.",
   "main": "userVideoFeed.js",
   "scripts": {
-    "deploy": "gh-pages -d HTML"
+    "deploy": "gh-pages -d deploy"
   },
   "repository": {
     "type": "git",
